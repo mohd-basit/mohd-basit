@@ -1,196 +1,136 @@
-# Hello! I'm Basit 👋🏼
+# 👋 Hey, I'm Basit
 
 ### Senior UI/UX Designer • Product Designer • Design System Specialist
 
+Designing AI-powered products, enterprise SaaS, and scalable design systems.
+
 📍 New Delhi, India
 
-I design intuitive digital experiences that solve complex business problems.
+---
 
-Currently working as a **Senior UI/UX Designer at Opniscience Technologies**, where I create enterprise SaaS products and AI-powered financial platforms. My focus is on simplifying complex workflows through user research, scalable design systems, thoughtful interaction design, and high-quality user interfaces.
+## ⚡ About Me
 
-Over the past few years, I've worked across **FinTech, AI, SaaS, Enterprise, and Consumer Products**, collaborating with cross-functional teams to build products that are visually polished, user-centred, and business-driven.
+• 4+ Years of Experience
+• Senior UI/UX Designer @ Opniscience
+• Design Systems Specialist
+• Enterprise SaaS & AI Products
+• FinTech • B2B • Mobile • Web
+• Passionate about building simple experiences for complex products
 
 ---
 
-# 🚀 What I Do
+## 🛠 Toolbox
 
-- End-to-End Product Design
-- UX Research & User Experience Design
-- Design Systems
-- Product Strategy
-- Wireframing & Prototyping
-- Interaction Design
-- Responsive Web & Mobile Design
-- Motion Design
-- Framer Development
-- Webflow Development
-- Branding & Visual Identity
+<table>
+<tr>
+<td>🎨 Figma</td>
+<td>🖌 Photoshop</td>
+<td>🎯 Illustrator</td>
+<td>🎬 After Effects</td>
+</tr>
 
----
+<tr>
+<td>🌐 Framer</td>
+<td>💻 Webflow</td>
+<td>⚙ HTML/CSS</td>
+<td>🤖 ChatGPT</td>
+</tr>
 
-# 🛠️ Design Toolkit
-
-### Design
-
-- Figma
-- Adobe XD
-- Photoshop
-- Illustrator
-- Canva
-
-### Development
-
-- HTML
-- CSS
-- Framer
-- Webflow
-
-### Collaboration
-
-- Jira
-- Notion
-- Slack
-- ClickUp
-- ChatGPT
+<tr>
+<td>📋 Notion</td>
+<td>📌 Jira</td>
+<td>💬 Slack</td>
+<td>✅ ClickUp</td>
+</tr>
+</table>
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## Senior UI/UX Designer
-### Opniscience Technologies India
-**Dec 2025 — Present**
+🏢 **Opniscience**  
+Senior UI/UX Designer  
+AI • Enterprise SaaS • FinTech
 
-Designing enterprise SaaS products and AI-powered financial platforms for institutional clients. Lead UX strategy, user research, interaction design, prototyping, and design system development to create scalable experiences that simplify complex financial workflows and improve operational efficiency.
+🏢 **BASIC Enterprises**  
+UI/UX Designer  
+Home Loan Platform • AI Products
 
----
+🏢 **Oyela Technologies**  
+UI/UX Designer
 
-## UI/UX Designer
-### BASIC Enterprises
-**Sep 2024 — Nov 2025**
+🏢 **Ebslon Infotech**  
+UI/UX Designer
 
-Designed internal and customer-facing products including:
-
-- Lighthouse
-- Lead Flash
-- APF Tool
-- HOM-i AI
-- Orbit AI
-
-Focused on improving home loan experiences by simplifying lead management, customer verification, onboarding journeys, AI-powered communication, and internal operational workflows.
+🏢 **ExpaVerse**  
+Top Intern Award 🏆
 
 ---
 
-## UI/UX Designer
-### Oyela Technologies
-**Apr 2023 — May 2024**
+## 🚀 Featured Work
 
-Designed intuitive digital products that aligned user needs with business goals. Worked closely with developers and stakeholders to improve user journeys, increase customer engagement, and deliver high-quality web and mobile experiences.
-
----
-
-## UI/UX Designer
-### Ebslon Infotech
-**Aug 2022 — Apr 2023**
-
-Created engaging interfaces, conducted usability testing, and implemented modern UI/UX practices that significantly improved product usability and user satisfaction.
+| Project | Description |
+|---------|-------------|
+| 🌙 Project Moon | Enterprise Design System |
+| 🤖 HOM-i AI | AI Assistant Platform |
+| 📊 Orbit AI | Internal Operations Tool |
+| 🏦 Lighthouse | CRM Dashboard |
+| 📱 Lead Flash | Lead Management |
 
 ---
 
-## UI/UX Designer (Intern)
-### ExpaVerse
-**Jul 2022 — Sep 2022**
+## 🎥 Design Showcase
 
-Designed interfaces for a college Applicant Tracking System and received the **Top Intern Award** for exceptional performance and contribution.
+<p align="center">
 
----
+<img src="assets/dashboard.gif" width="800"/>
 
-## Subject Matter Expert (SME)
-### Nstructive Global Services
-**Oct 2020 — Apr 2022**
-
-Led teams, solved operational challenges, and delivered high-quality solutions while developing strong leadership, communication, and project management skills.
+</p>
 
 ---
 
-# 🎓 Education
+## 📱 Product Demo
 
-## Motion Design with Figma
-**Udemy · 2024**
+<p align="center">
 
-Motion design, animations, UI interactions, and advanced Figma workflows.
+<img src="assets/mobile-app.gif" width="250"/>
 
----
-
-## Complete Web & Mobile Designer
-**Udemy · 2023**
-
-UI/UX Design, Figma, HTML/CSS, responsive design, branding, and logo design.
+</p>
 
 ---
 
-## Google UX Design Professional Certificate
-**Coursera · 2022**
+## 🎬 UI Animations
 
-Completed Google's professional UX curriculum covering user research, accessibility, wireframing, prototyping, usability testing, and high-fidelity design.
+<p align="center">
 
----
+<img src="assets/components.gif" width="800"/>
 
-## Bachelor of Business Administration
-**Mahatma Jyotiba Phule Rohilkhand University**
-**2021**
+</p>
 
 ---
 
-# 🌟 Core Strengths
+## 📈 GitHub Stats
 
-✨ User Experience Design
-
-✨ Design Systems
-
-✨ Product Thinking
-
-✨ Enterprise SaaS
-
-✨ AI Product Design
-
-✨ Information Architecture
-
-✨ User Research
-
-✨ Prototyping
-
-✨ Interaction Design
-
-✨ Accessibility
-
-✨ Cross-functional Collaboration
-
-✨ Design Leadership
+<!-- GitHub Stats -->
 
 ---
 
-# 📈 Industries
+## 🌱 Currently Learning
 
-- FinTech
-- Artificial Intelligence
-- Enterprise SaaS
-- Consumer Products
-- E-commerce
-- B2B Platforms
+• AI UX
+• Motion Design
+• Design Engineering
+• SwiftUI
+• React
 
 ---
 
-# 💬 Let's Connect
+## 📫 Connect
 
-I'm always interested in discussing:
+Portfolio
 
-- Product Design
-- UX Strategy
-- Design Systems
-- AI Products
-- Enterprise UX
-- Open Source Design
-- Creative Collaboration
+LinkedIn
 
-Thanks for visiting my GitHub profile! 🚀
+Behance
+
+Email
