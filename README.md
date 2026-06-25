@@ -71,10 +71,10 @@ Collaboration
 
 ## Let's Connect
 
-🌐 Portfolio: your-portfolio-link
+🌐 Portfolio: [MohdBasit](https://mohdbasit.framer.website/)
 
-💼 LinkedIn: your-linkedin
+💼 LinkedIn: [MohdBasit](https://www.linkedin.com/in/mohdbasit/)
 
-🎨 Behance: your-behance
+🎨 Behance: [MohdBasit](https://www.behance.net/MohdBasit)
 
-📧 Email: your-email
+📧 Email: [Email ID](mohdbasit972@gmail.com)
