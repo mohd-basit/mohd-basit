@@ -54,6 +54,18 @@ Full history on [LinkedIn](https://www.linkedin.com/in/mohdbasit/).
 
 Case studies are on my [portfolio](https://mohdbasit.framer.website/) and [Behance](https://www.behance.net/MohdBasit).
 
+## Open source design
+
+Design and accessibility proposals for design systems and products at large companies:
+
+| Project | Contribution |
+|---------|--------------|
+| **IBM Carbon** | [Read-only MultiSelect design proposal](https://github.com/carbon-design-system/carbon/issues/16120) |
+| **Elastic EUI** | [Combo box display modes: open design questions](https://github.com/elastic/eui/issues/9939) |
+| **Elastic EUI** | [Data grid cell editing: interaction and keyboard spec](https://github.com/elastic/eui/issues/8830) |
+| **Grafana** | [Coloured gauge text with automatic contrast fallback](https://github.com/grafana/grafana/issues/136014) |
+| **Spotify Backstage** | [Sidebar navigation requirements and roadmap](https://github.com/backstage/backstage/issues/29883) |
+
 ## Let's connect
 
 Open to conversations about product design, design systems and FinTech UX. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/mohdbasit/) or [email](mailto:mohdbasit972@gmail.com).
