@@ -2,7 +2,7 @@
 
 **Senior UI/UX Designer at [Opniscience](https://opniscience.com)** · Designing AI-powered products for FinTech and enterprise SaaS
 
-📍 Noida, India &nbsp;·&nbsp; [Portfolio](https://mohdbasit.framer.website/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mohdbasit/) &nbsp;·&nbsp; [Behance](https://www.behance.net/MohdBasit) &nbsp;·&nbsp; [Email](mailto:mohdbasit972@gmail.com)
+📍 Noida, India &nbsp;·&nbsp; [Portfolio](https://mohdbasit.com/?utm_source=github) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mohdbasit/) &nbsp;·&nbsp; [Behance](https://www.behance.net/MohdBasit) &nbsp;·&nbsp; [Email](mailto:mohdbasit972@gmail.com)
 
 I'm a product designer with 4+ years of experience turning complex business workflows into clear, usable interfaces. I work across the full process, from discovery and research to design systems, prototyping and developer handoff, for startups and enterprise teams on web and mobile.
 
@@ -52,7 +52,7 @@ Full history on [LinkedIn](https://www.linkedin.com/in/mohdbasit/).
 - **Home loan and FinTech products**: application flows and customer-facing web apps
 - **Web and mobile apps**: responsive products for startups and enterprise clients
 
-Case studies are on my [portfolio](https://mohdbasit.framer.website/) and [Behance](https://www.behance.net/MohdBasit).
+Case studies are on my [portfolio](https://mohdbasit.com/?utm_source=github) and [Behance](https://www.behance.net/MohdBasit).
 
 ## Open source design
 
